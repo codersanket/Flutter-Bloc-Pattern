@@ -39,6 +39,8 @@ Once Flutter is setup, you can use the latest `stable` channel:
  * Simple,Lightweight & Highly Testable
  * Very good documentation with tons of examples
  * You could test your bloc logic in an easy way.You will find some tests [here](https://github.com/codersanket/Flutter-Bloc-Pattern/tree/main/test/features)
+  
+  Docs and Example find [here](https://bloclibrary.dev/#/gettingstarted)
 
 
 
